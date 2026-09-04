@@ -1,0 +1,16 @@
+{
+  "auto_selftest_on_startup": true,
+  "log_to_file": true,
+  "log_max_mb": 5,
+  "sidebar_width": 180,
+  "nav_font_size": 12,
+  "nav_padding_h": 15,
+  "nav_padding_v": 10,
+  "action_font_size": 15,
+  "action_height": 28,
+  "window_width": 932,
+  "window_height": 621,
+  "content_margin": 16,
+  "content_spacing": 10,
+  "log_height": 92
+}
